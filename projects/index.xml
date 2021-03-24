@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ovais Khan</title>
+    <link>https://khanmuhammadovais.github.io/My_Portfolio/projects/</link>
+    <description>Recent content in Projects on Ovais Khan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://khanmuhammadovais.github.io/My_Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robo Advisor</title>
+      <link>https://khanmuhammadovais.github.io/My_Portfolio/projects/project-002/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khanmuhammadovais.github.io/My_Portfolio/projects/project-002/</guid>
+      <description>The main goal of the project was to build an, automated investment advisory service, that is well diversified across various asset classes and that require little to no user interaction. The other goal is to match or exceed the risk adjusted performance of the market. Utilized Yahoo Finance API to download 10 years data for various ETFs across, different assets classes and different geographies. Categorized investor&amp;rsquo;s risk tolerance level based on the responses to the risk assessment queries.</description>
+    </item>
+    
+    <item>
+      <title>Bank Customer Churn Reduction</title>
+      <link>https://khanmuhammadovais.github.io/My_Portfolio/projects/project-001/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khanmuhammadovais.github.io/My_Portfolio/projects/project-001/</guid>
+      <description>The main goal of the project is to identify potential reasons behind customer attrition at the bank, and to predict future customers who might leave, that that will allow the bank to be creative and proactive in their engagement with the customers. As a data objective, we would ideally also like to identify the machine learning algorithm that has the best accuracy and what are some of the most important factors considered by the algorithm.</description>
+    </item>
+    
+  </channel>
+</rss>
